@@ -22,7 +22,7 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
-    
+[open app](http://open.magnet-links.com/)
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
