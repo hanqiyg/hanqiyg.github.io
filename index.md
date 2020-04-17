@@ -4,7 +4,7 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
+## [open app](http://open.magnet-links.com/?key=fresh)
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
@@ -22,7 +22,7 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
-[open app](http://open.magnet-links.com/)
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
