@@ -4,7 +4,10 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-## [open app](mls://open.magnet-links.com/?key=fresh)
+
+## [search key: test](mls://search.magnet-links.com/?key=test)
+
+## [open InfoHash: c0b6c2adabf1ebd0432e05448f3a94815f21d5a9](mls://open.magnet-links.com/?infohash=c0b6c2adabf1ebd0432e05448f3a94815f21d5a9)
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
